@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<img src="https://img.shields.io/badge/-Javascript-000000?style=flat&logo=Javascript"/>
+Hi there 👋 Im **Web Developer** </br>
+<img src="https://img.shields.io/youtube/channel/subscribers/UCbz860KglXxaMV2eKPDW4eg?label=study%20%26%20Morning%20routine%20with%20Gyu%20Jeong"/>
+https://www.youtube.com/channel/UCbz860KglXxaMV2eKPDW4eg
 <!--
 **pavk96/pavk96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
