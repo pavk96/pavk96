@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=pavk96&fontSize=90)
 
 # Park Gyu Jeong    
-<img src="https://img.shields.io/badge/-Javascript-000000?style=flat&logo=Javascript">
+
 Hi there 👋 Im Junior Web Developer 
 
 ### 🧑🏻‍💻 Tech 
