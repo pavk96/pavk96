@@ -14,10 +14,10 @@ Hi there 👋 Im Junior Web Developer
 <a href="https://www.youtube.com/channel/UCbz860KglXxaMV2eKPDW4eg">
 <img src="https://img.shields.io/youtube/channel/subscribers/UCbz860KglXxaMV2eKPDW4eg?label=study%20%26%20Morning%20routine%20with%20Gyu%20Jeong"><a/><br>
 <a href="https://velog.io/@pavk96">
-<img src="https://img.shields.io/badge/Velog-2FB18C&logo=Velog&logoColor=black"><a/><br>
+<img src="https://img.shields.io/badge/Velog-2FB18C?style=flat-square&logo=Velog&logoColor=black"><a/><br>
   
 <a href="https://discord.gg/kbqJnQtvag">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><a/>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"><a/>
 <!--
 **pavk96/pavk96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
